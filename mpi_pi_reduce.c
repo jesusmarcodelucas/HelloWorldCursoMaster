@@ -1,5 +1,6 @@
 /**********************************************************************
  * FILE: mpi_pi_reduce.c
+ *
  * OTHER FILES: dboard.c
  * DESCRIPTION:  
  *   MPI pi Calculation Example - C Version 
